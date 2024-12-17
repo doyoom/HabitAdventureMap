@@ -49,6 +49,7 @@ React Navigation을 사용해 화면 전환을 구현합니다.
 npm install @react-navigation/native react-native-screens react-native-safe-area-context react-native-gesture-handler react-native-reanimated react-native-vector-icons react-native-get-random-values
 추가로 Stack Navigator를 설치합니다:
 
+
 npm install @react-navigation/stack
 
 
